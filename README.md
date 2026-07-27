@@ -2,10 +2,8 @@
 <img width="1023" height="631" alt="Screenshot 2026-07-26 at 9 57 12 PM" src="https://github.com/user-attachments/assets/abc8407a-acc2-4b61-902a-0d7fb097b112" />
 <img width="300" height="300" alt="Screenshot 2026-07-26 at 9 58 09 PM" src="https://github.com/user-attachments/assets/a944be55-3086-47f7-9d73-dbb9d69c106f" />
 <img width="300" height="300" alt="Screenshot 2026-07-26 at 10 00 18 PM" src="https://github.com/user-attachments/assets/e30b3a56-2345-419d-a85f-09eff4bb5fed" />
-<space>
-This project demonstrates the deployment of the AWS WildRydes serverless application using Amazon Web Services. The project was completed as part of my Cloud Computing course and focuses on deploying and configuring AWS services rather than developing the application code from scratch.
 
-This repository contains the frontend code and project documentation. The backend infrastructure (Amazon Cognito, API Gateway, Lambda, DynamoDB, IAM, and S3 hosting) was deployed in AWS and is not included because it consists of managed cloud resources rather than source code.
+This project demonstrates the deployment of the AWS WildRydes serverless application using Amazon Web Services. The project was completed as part of my Cloud Computing course and focuses on deploying and configuring AWS services rather than developing the application code from scratch. This repository contains the frontend code and project documentation. The backend infrastructure (Amazon Cognito, API Gateway, Lambda, DynamoDB, IAM, and S3 hosting) was deployed in AWS and is not included because it consists of managed cloud resources rather than source code.
 
 ## Features
 - User Registration
