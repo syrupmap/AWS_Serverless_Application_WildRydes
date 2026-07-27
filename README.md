@@ -1,2 +1,28 @@
-# AWS_Serverless_Appplication_WildRydes
-WildRydes Serverless Application on AWS
+# WildRydes Serverless Application on AWS
+
+This project demonstrates the deployment of the AWS WildRydes serverless application using Amazon Web Services. The project was completed as part of my Cloud Computing course and focuses on deploying and configuring AWS services rather than developing the application code from scratch.
+
+This repository contains the frontend code and project documentation. The backend infrastructure (Amazon Cognito, API Gateway, Lambda, DynamoDB, IAM, and S3 hosting) was deployed in AWS and is not included because it consists of managed cloud resources rather than source code.
+
+## Features
+- User Registration
+- Email Verification
+- Secure Login
+- JWT Authentication
+- Serverless Backend
+- REST API
+- Ride Storagein DynamoDB
+
+## Architecture
+<img width="534" height="302" alt="Screenshot 2026-07-26 at 9 52 39 PM" src="https://github.com/user-attachments/assets/c274d44d-d20a-4f8d-9826-f12dd3ff0fdb" />
+
+## AWS Services Used
+- Amazon S3
+- Amazon Cognito
+- API Gateway
+- Lambda
+- DynamoDB
+- IAM
+
+
+  
