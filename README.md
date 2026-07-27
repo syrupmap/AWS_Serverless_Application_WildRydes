@@ -24,6 +24,14 @@ This project demonstrates the deployment of the AWS WildRydes serverless applica
 - Lambda
 - DynamoDB
 - IAM
-
+  
+## Skills Demonstrated
+- Serverless application deployment
+- User authentication with Amazon Cognito
+- REST API configuration with API Gateway
+- Lambda function integration
+- NoSQL database configuration with DynamoDB
+- IAM role and permission management
+- Static website hosting with Amazon S3
 
   
